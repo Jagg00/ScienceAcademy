@@ -1,0 +1,15 @@
+C:\Users\basil\source\repos\ScienceAcademy\ScienceAcademy.Business\bin\Debug\net8.0\ScienceAcademy.Business.deps.json
+C:\Users\basil\source\repos\ScienceAcademy\ScienceAcademy.Business\bin\Debug\net8.0\ScienceAcademy.Business.dll
+C:\Users\basil\source\repos\ScienceAcademy\ScienceAcademy.Business\bin\Debug\net8.0\ScienceAcademy.Business.pdb
+C:\Users\basil\source\repos\ScienceAcademy\ScienceAcademy.Business\obj\Debug\net8.0\ScienceAcademy.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basil\source\repos\ScienceAcademy\ScienceAcademy.Business\obj\Debug\net8.0\ScienceAcademy.Business.AssemblyInfoInputs.cache
+C:\Users\basil\source\repos\ScienceAcademy\ScienceAcademy.Business\obj\Debug\net8.0\ScienceAcademy.Business.AssemblyInfo.cs
+C:\Users\basil\source\repos\ScienceAcademy\ScienceAcademy.Business\obj\Debug\net8.0\ScienceAcademy.Business.csproj.CoreCompileInputs.cache
+C:\Users\basil\source\repos\ScienceAcademy\ScienceAcademy.Business\obj\Debug\net8.0\ScienceAcademy.Business.dll
+C:\Users\basil\source\repos\ScienceAcademy\ScienceAcademy.Business\obj\Debug\net8.0\refint\ScienceAcademy.Business.dll
+C:\Users\basil\source\repos\ScienceAcademy\ScienceAcademy.Business\obj\Debug\net8.0\ScienceAcademy.Business.pdb
+C:\Users\basil\source\repos\ScienceAcademy\ScienceAcademy.Business\obj\Debug\net8.0\ref\ScienceAcademy.Business.dll
+C:\Users\basil\source\repos\ScienceAcademy\ScienceAcademy.Business\bin\Debug\net8.0\ScienceAcademy.Data.dll
+C:\Users\basil\source\repos\ScienceAcademy\ScienceAcademy.Business\bin\Debug\net8.0\ScienceAcademy.Data.pdb
+C:\Users\basil\source\repos\ScienceAcademy\ScienceAcademy.Business\obj\Debug\net8.0\ScienceAcademy.Business.csproj.AssemblyReference.cache
+C:\Users\basil\source\repos\ScienceAcademy\ScienceAcademy.Business\obj\Debug\net8.0\ScienceAcademy.Business.csproj.CopyComplete

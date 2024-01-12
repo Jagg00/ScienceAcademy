@@ -1,0 +1,14 @@
+C:\Users\basil\source\repos\ScienceAcademy\ScienceAcademy.Data\bin\Debug\net8.0\ScienceAcademy.Data.deps.json
+C:\Users\basil\source\repos\ScienceAcademy\ScienceAcademy.Data\bin\Debug\net8.0\ScienceAcademy.Data.runtimeconfig.json
+C:\Users\basil\source\repos\ScienceAcademy\ScienceAcademy.Data\bin\Debug\net8.0\ScienceAcademy.Data.dll
+C:\Users\basil\source\repos\ScienceAcademy\ScienceAcademy.Data\bin\Debug\net8.0\ScienceAcademy.Data.pdb
+C:\Users\basil\source\repos\ScienceAcademy\ScienceAcademy.Data\obj\Debug\net8.0\ScienceAcademy.Data.csproj.AssemblyReference.cache
+C:\Users\basil\source\repos\ScienceAcademy\ScienceAcademy.Data\obj\Debug\net8.0\ScienceAcademy.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basil\source\repos\ScienceAcademy\ScienceAcademy.Data\obj\Debug\net8.0\ScienceAcademy.Data.AssemblyInfoInputs.cache
+C:\Users\basil\source\repos\ScienceAcademy\ScienceAcademy.Data\obj\Debug\net8.0\ScienceAcademy.Data.AssemblyInfo.cs
+C:\Users\basil\source\repos\ScienceAcademy\ScienceAcademy.Data\obj\Debug\net8.0\ScienceAcademy.Data.csproj.CoreCompileInputs.cache
+C:\Users\basil\source\repos\ScienceAcademy\ScienceAcademy.Data\obj\Debug\net8.0\ScienceAcademy.Data.dll
+C:\Users\basil\source\repos\ScienceAcademy\ScienceAcademy.Data\obj\Debug\net8.0\refint\ScienceAcademy.Data.dll
+C:\Users\basil\source\repos\ScienceAcademy\ScienceAcademy.Data\obj\Debug\net8.0\ScienceAcademy.Data.pdb
+C:\Users\basil\source\repos\ScienceAcademy\ScienceAcademy.Data\obj\Debug\net8.0\ScienceAcademy.Data.genruntimeconfig.cache
+C:\Users\basil\source\repos\ScienceAcademy\ScienceAcademy.Data\obj\Debug\net8.0\ref\ScienceAcademy.Data.dll
